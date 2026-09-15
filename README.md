@@ -3,8 +3,8 @@ A short no-bullshit introductory booklet to what Anki is and why you should use 
 
 Free guide introducing digital flashcards, active recall, and spaced repetition for language learners.
 
-📄 **[Download the PDF Version](./"What Is Anki And Why You Should Use For Vocabulary Learning.pdf")**  
-📝 **[View Original Source File (.docx)](./"What Is Anki And Why You Should Use For Vocabulary Learning.docx")**
+📄 **[Download the PDF Version](<./What Is Anki And Why You Should Use For Vocabulary Learning.pdf>)**  
+📝 **[View Original Source File (written in Onlyoffice .docx)](<./"What Is Anki And Why You Should Use For Vocabulary Learning.docx>)**
 
 ---
 
