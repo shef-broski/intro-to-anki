@@ -1,5 +1,5 @@
 # intro-to-anki
-# What Is Anki And Why You Should Use It For Vocabulary Learning
+## What Is Anki And Why You Should Use It For Vocabulary Learning
 
 A short, no-bullshit introductory booklet covering digital flashcards, active recall, and spaced repetition for language learners.
 
